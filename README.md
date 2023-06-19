@@ -3,52 +3,54 @@
 
 Описание для приложения.
 # Иконка приложения на экране телефона
-![Icon](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Icon%20on%20screen%20on%20phone.png)
+<img src="Screens/Icon%20on%20screen%20on%20phone.png" width=200>
 
 # Ввод логина и пароля
-![Login](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Login%20screen.png)
+<img src="Screens/Login%20screen.png" width=200>
 
 # Восстановление пароля
-![ResetPassword](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Reset%20password%20screen.png)
+<img src="Screens/Reset%20password%20screen.png" width=200>
 
 # Главное меню
-![MainScreen](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Main%20Screen.png)
+<img src="Screens/Main%20Screen.png" width=200>
 
 # Календарь
-Удобный календарь с пометкой на дне дедлайна и описанием.
-![Calendar](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Calendar.png)
+<p>Удобный календарь с пометкой на дне дедлайна и описанием.</p>
+<img src="Screens/Calendar.png" width=200>
 
 # Все задачи
-Просмотр всех задач поставленных пользователю на данный момент.
-![Tasks](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Tasks.png)
+<p>Просмотр всех задач поставленных пользователю на данный момент.</p>
+<img src="Screens/Tasks.png" width=200>
 
 # Описание задачи
-Здесь менеджер может менять статус задачи и менять ее.
-![ViewTask](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Task%20screen.png)
+<p>Здесь менеджер может менять статус задачи и редактировать ее.</p>
+<img src="Screens/Task%20screen.png" width=200>
 
 # Фильтры задач
-![Filters](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Filters.png)
+<img src="Screens/Filters.png" width=200>
 
 # Новая задача
-![NewTask](https://github.com/Tracerprofit/TestApp/blob/main/Screens/New%20task.png)
+<img src="Screens/New%20task.png" width=200>
 
 # Добавление нового пользователя
-Добавлять пользователь может только менеджер, также он может добавить другого менеджера.
-![AddUser](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Add%20new%20user.png)
+<p>Добавлять пользователь может только менеджер, также он может добавить другого менеджера.</p>
+<img src="Screens/Add%20new%20user.png" width=200>
 
 # Сообщения
-Приложение подразумевает передачу сообщений между зарегестрированными пользователями, сообщения хранятся в Firebase. Последнее сообщение отображается в списке диалогов.
-![Message](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Send%20message.png)
-![Message2](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Show%20last%20message.png)
+<p>Приложение подразумевает передачу сообщений между зарегестрированными пользователями, сообщения хранятся в Firebase. Последнее сообщение отображается в списке диалогов.</p>
+<img src="Screens/Send%20message.png" width=200>
+<img src="Screens/Show%20last%20message.png" width=200>
 
 # Медиа в сообщениях
-Присутствует возможность добавление медиа/видео/аудио файлов.
-![AddMedia](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Send%20pictures.png)
-![AddMedia2](https://github.com/Tracerprofit/TestApp/blob/main/Screens/Choice%20add%20file.png)
+<p>Присутствует возможность добавление медиа/видео/аудио файлов.</p>
+<img src="Screens/Send%20pictures.png" width=200>
+<img src="Screens/Choice%20add%20file.png" width=200>
 
 # Карточка пользователя
-![PersonalInfo](https://github.com/Tracerprofit/TestApp/blob/main/Screens/User%20in%20detail.png)
+<img src="Screens/User%20in%20detail.png" width=200>
 
 # Данные контакта
-Данные контакта заполняются при регистрации (добавления) нового пользователя.
-![ContactInfo](https://github.com/Tracerprofit/TestApp/blob/main/Screens/User%20in%20detail%202.png)
+<p>Данные контакта заполняются при регистрации (добавления) нового пользователя.</p>
+<img src="Screens/User%20in%20detail%202.png" width=200>
+
+<p> Все данные хранятся в Firebase/Realtime Database и Firebase/Firestore Database. Авторизация утроена в Firebase/Authentication.</p>
